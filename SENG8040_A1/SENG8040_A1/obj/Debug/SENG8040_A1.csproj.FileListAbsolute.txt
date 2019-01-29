@@ -1,0 +1,10 @@
+C:\Users\gurbaj\source\repos\SENG8040_A1\SENG8040_A1\bin\Debug\SENG8040_A1.exe.config
+C:\Users\gurbaj\source\repos\SENG8040_A1\SENG8040_A1\bin\Debug\SENG8040_A1.exe
+C:\Users\gurbaj\source\repos\SENG8040_A1\SENG8040_A1\bin\Debug\SENG8040_A1.pdb
+C:\Users\gurbaj\source\repos\SENG8040_A1\SENG8040_A1\bin\Debug\nunit.framework.dll
+C:\Users\gurbaj\source\repos\SENG8040_A1\SENG8040_A1\bin\Debug\nunit.framework.xml
+C:\Users\gurbaj\source\repos\SENG8040_A1\SENG8040_A1\obj\Debug\SENG8040_A1.csprojAssemblyReference.cache
+C:\Users\gurbaj\source\repos\SENG8040_A1\SENG8040_A1\obj\Debug\SENG8040_A1.csproj.CoreCompileInputs.cache
+C:\Users\gurbaj\source\repos\SENG8040_A1\SENG8040_A1\obj\Debug\SENG8040_A1.csproj.CopyComplete
+C:\Users\gurbaj\source\repos\SENG8040_A1\SENG8040_A1\obj\Debug\SENG8040_A1.exe
+C:\Users\gurbaj\source\repos\SENG8040_A1\SENG8040_A1\obj\Debug\SENG8040_A1.pdb
